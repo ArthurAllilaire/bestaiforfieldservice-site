@@ -1,0 +1,32 @@
+# Best AI for Field Service
+
+> Best AI for field service, by the system you run and where your knowledge lives. 12 tools compared on sources, technician access and price.
+
+Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+
+## The short answer
+
+If you run one of the big field service suites, its own AI is the obvious first step: Salesforce, Microsoft, ServiceNow, IFS, SAP, Oracle and ServiceMax all brief the technician and write the summary from the data already in the system. If the hard part is the fix itself, look at a specialist that answers from your own service history: Kenner, which builds a knowledge graph on top of whatever systems you run, for equipment service teams, Aquant for manufacturers' service organisations, Neuron7 for the very largest.
+
+- Equipment service teams that want answers from their own job history, on any system: Kenner (https://getkenner.com/)
+- Service organisations of equipment manufacturers: Aquant (https://www.aquant.ai/solutions/field-technicians)
+- Enterprises with 1,000 or more technicians and complex equipment: Neuron7 (https://www.neuron7.ai/)
+- Teams on Salesforce Field Service: Salesforce Agentforce for Field Service (https://www.salesforce.com/service/field-service-management/)
+- Teams on Dynamics 365 Field Service: Microsoft Copilot in Dynamics 365 Field Service (https://learn.microsoft.com/en-us/dynamics365/field-service/copilot-overview)
+- Teams on ServiceNow: ServiceNow Field Service Management (https://www.servicenow.com/products/field-service-management.html)
+- Teams on IFS Cloud: IFS Cloud Field Service Management with IFS.ai (https://www.ifs.com/en/products/fsm)
+- Teams on SAP: SAP Field Service and Asset Management with Joule (https://www.sap.com/products/crm/customer-service/field-service-management.html)
+- Teams on Oracle Fusion Field Service: Oracle Fusion Field Service (https://www.oracle.com/cx/service/field-service-management/)
+- Asset-centric service teams on ServiceMax: PTC ServiceMax AI (https://www.ptc.com/en/products/servicemax/ai-service)
+- In-house maintenance teams: MaintainX Assist (https://help.getmaintainx.com/maintainx-assist)
+- Trade contractors on Simpro: Simpro Lightning (https://www.simprogroup.com/)
+
+## Pages
+
+- [Best AI for field service in 2026](https://bestaiforfieldservice.com/)
+- [Best AI for field service technicians in 2026](https://bestaiforfieldservice.com/technicians/)
+- [Best AI for field service reports and work order summaries](https://bestaiforfieldservice.com/work-order-summaries/)
+- [Best AI for field service, by the platform you run](https://bestaiforfieldservice.com/by-platform/)
+- [AI built into your FSM, or a specialist on top?](https://bestaiforfieldservice.com/suite-or-specialist/)
+- [Method](https://bestaiforfieldservice.com/method/)
+- [About and disclosure](https://bestaiforfieldservice.com/about/)
