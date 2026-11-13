@@ -12,7 +12,7 @@
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 17px/1.62 var(--sans);-webkit-font-smoothing:antialiased}
-h1,h2,h3,h4,p,ul,dl,dd{margin:0}
+h1,h2,h3,h4,p,ul,ol,dl,dd{margin:0}
 a{color:var(--accent);text-underline-offset:3px;text-decoration-thickness:1px}
 a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .wrap{display:block;max-width:1080px;margin:0 auto;padding:0 var(--g)}
@@ -29,7 +29,7 @@ nav a{color:var(--muted);text-decoration:none;padding-block:4px}
 @media (hover:hover){nav a:hover{color:var(--ink)}}
 
 main.wrap{padding-block:clamp(36px,6vw,72px) clamp(56px,8vw,104px)}
-article :where(h1,h2,h3,h4,p,ul,.answer){max-width:720px}
+article :where(h1,h2,h3,h4,p,ul,ol,.answer){max-width:720px}
 article section{margin-top:clamp(48px,6vw,72px)}
 article section section{margin-top:0}
 .crumb{font-size:14px;margin-bottom:18px}
@@ -39,9 +39,10 @@ h2{font:400 clamp(26px,3.2vw,34px)/1.15 var(--serif);letter-spacing:-.015em;text
 h3{font:600 19px/1.35 var(--sans);letter-spacing:-.005em;margin:30px 0 8px}
 h4{font:600 15px/1.4 var(--sans);margin-bottom:8px}
 p{text-wrap:pretty}
-p+p,p+ul,ul+p,dl+p{margin-top:14px}
+p+p,p+ul,ul+p,p+ol,ol+p,dl+p{margin-top:14px}
 h1+p{margin-top:16px}
 ul{padding-left:20px}
+ol{padding-left:24px}
 li+li{margin-top:7px}
 .byline{font-size:14.5px;color:var(--muted)}
 .byline a{color:inherit}
